@@ -1,0 +1,15 @@
+.backImg {
+  background: url(../img/bg.jpg);
+  min-height: 90vh;
+  background-size: cover;
+}
+
+.custom-footer {
+  height: 300px;
+  padding-top: 2rem;
+}
+
+#appstore {
+  width: 300px;
+}
+/*# sourceMappingURL=style.css.map */
